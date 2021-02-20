@@ -10,3 +10,23 @@
 .callingCode {
   letter-spacing: 10px;
 }
+
+.bcolor-dark {
+  background-color: #222831 !important;
+}
+
+.bcolor-secondary {
+  background-color: #393e46 !important;
+}
+
+.txt-warning {
+  color: #ffd369 !important;
+}
+
+.bcolor-warning {
+  background-color: #ffd369 !important;
+}
+
+.txt-light {
+  color: #eeeeee !important;
+}

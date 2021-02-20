@@ -11,8 +11,8 @@ $(document).ready(function () {
     $("#all_country").change(function () {
       let index = $("#all_country option:selected").index();
       $("#country-name").html(country[index - 1].name);
-      $(".textColor").removeClass("text-light");
-      $(".textColor").addClass("text-warning");
+      $(".textColor").removeClass("txt-light");
+      $(".textColor").addClass("txt-warning");
       $("#country-nativeName").html(country[index - 1].nativeName);
       $("#country-capital").html(country[index - 1].capital);
       let region =
