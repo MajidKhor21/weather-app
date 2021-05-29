@@ -1,6 +1,8 @@
-<h3 align="center">WEATHER APP</h3>
+# Simple Weather App with jQuery Ajax and Bootstrap
 
-<h3 align="left">Languages and Tools:</h3>
-<h4>Bootstrap 5</h4>
-<h4>Javascript</h4>
-<h4>JQUERY</h4>
+### For Using This Application Run These Commands
+
+```bash
+1. open index.html
+```
+
